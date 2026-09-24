@@ -1,0 +1,2 @@
+# HTML-CSS-BASIS-PROJECT
+A resume using HTML AND CSS
